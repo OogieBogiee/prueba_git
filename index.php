@@ -13,7 +13,7 @@
     echo "Hola en PHP y esto es una " .$nombre. " para Github";
     ?>
 <table>
-    <hr>Hola</hr>
+    <hr>Hola hola</hr>
 </table>
 </body>
 </html>
