@@ -14,6 +14,8 @@
     ?>
 <table>
     <hr>Hola hola</hr>
+    <hr>Otra para para probar</hr>
+    <hr></hr>
 </table>
 </body>
 </html>
