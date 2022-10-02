@@ -12,5 +12,8 @@
     $nombre = "prueba";
     echo "Hola en PHP y esto es una " .$nombre. " para Github";
     ?>
+<table>
+    <hr>Hola</hr>
+</table>
 </body>
 </html>
